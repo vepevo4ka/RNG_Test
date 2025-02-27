@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/arbeit/synchronization/RNG_Test/RNG_Test.sim/sim_1/synth/timing/xsim/TB_SimpleRX_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SimpleRX
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/arbeit/synchronization/RNG_Test/RNG_Test.srcs/sim_1/new/TB_SimpleRX.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TB_SimpleRX

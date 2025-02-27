@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+At time                    0, data_out = xxxx
+At time                    0, data_out = 0000
+At time               105000, data_out = 1001
+At time               125000, data_out = 1010
